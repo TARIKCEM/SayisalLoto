@@ -6,6 +6,7 @@ namespace SayisalLoto
     {
         static void Main(string[] args)
         {
+            //Dizi tanımlandı
             int[] sayisal =new int[6];
             
 
